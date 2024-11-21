@@ -1,5 +1,5 @@
-# Reinforced Active Learning for Image Segmentation (RALIS)
-Code for the paper [Reinforced Active Learning for Image Segmentation](https://arxiv.org/abs/2002.06583)
+# RL-Assisted SAM Segmentation in Diverse1 Medical Imaging Modalities
+Code for the paper [Bridging the Gap in Lesion Segmentation: RL-Assisted SAM Segmentation in Diverse Medical Imaging Modalities ()]
 
 ## Dependencies 
 - python 3.6.5
@@ -9,10 +9,9 @@ Code for the paper [Reinforced Active Learning for Image Segmentation](https://a
 
 ## Scripts
 The folder 'scripts' contains the different bash scripts that could be used to train the same models used in the paper, for both Camvid and Cityscapes datasets. 
-- launch_supervised.sh: To train the pretrained segmentation models. 
-- launch_baseline.sh: To train the baselines 'random', 'entropy' and 'bald'.
-- launch_train_ralis.sh: To train the 'ralis' model.
-- launch_test_ralis.sh: To test the 'ralis' model. 
+- launch_baseline.sh: To train the baselines 'random'.
+- launch_train_ralis.sh: To train the 'SAM RL agent' model.
+- launch_test_ralis.sh: To test the 'SAM RL agent' model. 
 
 ## Datasets
 Camvid: https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid
