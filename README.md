@@ -13,12 +13,6 @@ The folder 'scripts' contains the different bash scripts that could be used to t
 - launch_train_ralis.sh: To train the 'SAM RL agent' model.
 - launch_test_ralis.sh: To test the 'SAM RL agent' model. 
 
-## Datasets (Limited Access)
-Camvid: https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid
-
-## Pre-Trained models
-To download the pre-trained models for SAM RL agent: https://drive.google.com/file/d/13C4e0bWw6SEjTAD7JdAfLGVz7p7Veeb9/view?usp=sharing
-
 ## Citation
 If you use this code, please cite:
 ```
