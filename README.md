@@ -12,9 +12,3 @@ The folder 'scripts' contains the different bash scripts that could be used to t
 - launch_baseline.sh: To train the baselines 'random'.
 - launch_train_ralis.sh: To train the 'SAM RL agent' model.
 - launch_test_ralis.sh: To test the 'SAM RL agent' model. 
-
-## Citation
-If you use this code, please cite:
-```
-
-```
