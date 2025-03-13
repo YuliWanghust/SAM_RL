@@ -1,5 +1,5 @@
 # RL-Assisted SAM Segmentation in Diverse Medical Imaging Modalities
-Code for the paper [Bridging the Gap in Lesion Segmentation: RL-Assisted SAM Segmentation in Diverse Medical Imaging Modalities ()]
+Code for the paper [Bridging the Gap in Lesion Segmentation: RL-Assisted SAM Segmentation in Diverse Medical Imaging Modalities]
 
 ## Dependencies 
 - python 3.6.5
