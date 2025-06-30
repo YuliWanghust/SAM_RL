@@ -16,5 +16,5 @@ The folder 'scripts' contains the different bash scripts that could be used to t
 ## Pre-trained and Fine-tuned Models
 To download the trained pre-trained models for RL: [Google Drive][https://drive.google.com/file/d/15_3dhBL4HmU-U5f3-vJp2lfTFBnTIKLu/view?usp=drive_link]
 
-To download the trained fine-tuned models for SAM_RL:
+To download the trained fine-tuned models for SAM_RL: [Google Drive][https://drive.google.com/file/d/1rYKJD_lPScF7JwdGY3NVjqdOO7zzl_LO/view?usp=drive_link]
 
